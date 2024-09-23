@@ -1,0 +1,434 @@
+┌ Info: 2024-08-26 11:39:47 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 11:39:48 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:39:59 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 11:39:59 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:40:01 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=XKDLXZSRSLRSYTYCKBDTCFTJPRFGKRDQ 
+└ @ Genie.Server C:\Users\88157\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-26 11:40:01 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\88157\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-26 11:41:03 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:41:03 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:41:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:41:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:41:51 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:41:51 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:42:31 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:42:31 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:43:42 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:43:42 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:43:56 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:43:56 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:45:02 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:45:02 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:58:44 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:58:44 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:59:19 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:59:19 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:59:47 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 11:59:47 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:20 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:20 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:35 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:35 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:43 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:00:43 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:00 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:00 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:26 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:26 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:46 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:01:46 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:02:30 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:02:30 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:04:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 12:04:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:26:33 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 19:26:34 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:26:45 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 19:26:45 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:26:47 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=CSFHEWWWJJLOCGROJAHPMPPVNASKPLLT 
+└ @ Genie.Server C:\Users\88157\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-26 19:26:47 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\88157\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-26 19:31:32 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:31:32 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:32:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:32:05 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-08-26 19:32:18 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Error: 2024-08-26 19:32:21 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   ATGTCATCCTCAAGGCCTAGCCAATCTTCTAGCAATTCGGGGAGATCAAGACATAGCGCTAGGATTATTGCTCAGACCACTGTAGATGCAAAGCTCCATGCTAGTTTTGAGGAGTCTGGTAGTTCCTTTGACTACTCTAGTTCGGTGCGCGCCTCCGGCTCAGCTGATGGAGAAAATCAACCAAGAACAGATAAAGTAACAACAGCTTACCTCCATCACATACAGAAAGGCAAGATGATTCAACCCTTTGGGTGCTTGCTGGCCTTGGATGAGAAAACATGCAAGGTGATTGCTTACACTGAGAATGCACCAGAGATGCTGACCATGGCGAGTCATGCTGTTCCCAGTGTTGGTGACCACCCTGCCCTTGGCATTGGCACCGACATAAGAACTATTTTCACTGCTCCAAGTGCTTCGGCATTGCAGAAAGCACTAGGATTTGGAGAAGTTCATCTTCTTAACCCCATCCTAGTTCATTGCAAGACTTCTGGGAAACCCTTCTATGCTATTCTCCATCGTGTTACTGGTAGTTTGATTATTGACTTTGAGCCCGTCAAGCCTTATGAAGTTCCTATGACTGCAGCAGGTGCTCTGCAATCTTACAAGCTTGCTGCGAAAGCAATCACCCGATTGCAGTCTTTGCCTAGTGGGAGCATGGAAAGGCTATGTGATACAATGGTCCAAGAAGTTTTTGAACTCACGGGTTATGACAGGGTGGTGGCTTATAAATTTCATGAGGATGATCATGGGGAAGTGATTACTGAGTTAACAAAGCCAGGACTTGAACCATATCTTGGTTTGCACTATCCGTCCACTGATATTCCCCAGGCTGCACGTTTTTTTGTTCTTGAAGAACAAGGTCCGTATGATTGTTGATTGTCATGCAAAACATGTAAAGGTTGTTCAAGATGAGAAGCTGCCATTCGATTTGACTTTGTGTGGTTCAACCTTAAGAGCTCCTCATAGTTGCCATTTGCAATACATGTCAAACATGGATTCAATTGCTTCCCTAGTTATGGCAGTTATAGTCAATGACAGCGATGAAGATGCGGACAACTCTGATGCTGTTCAGCCACAAAAGAGAAAGCGACTCTGGGGCTTAGTTGTTTGTCATAACACTACTCCCAGGTTTGTTCCTTTTCCTCTAAGGTATGCTTGTGAGTTTCTGACACAAGTATTTGCCATCCATGTCAACAGAGAAATAGAGTTAGAATATCAGATTACTGAAAAGAATATCCTTCGCACTCAGACGCTCTTGTGTGATGTGCTGATGCGAGATGCACCCCTAGGAATTGTATCACAAAGCCCTAATATAATGGACCTAGTTAAATGTGATGGGGCTTCCCTCTTGTATAAAAACAAGGTATGGAGATTAGGAGTAACACCTACTGAATCTCATATAAGAGAGATAGCTTTGTGGTTGTCTGAGCACCATATGGATTCCACAGGTCTTAGTACAGATAGCTTGTATGATGCCGGGTTCCCAGGGGCTCTGTCTCTTGGTGATGTAGTATGTGGAATGGCAGCGGTTAGAATAACTGAGAAAGACATAGTTTTCTGGTTTCGATCACACACAGCTGCAGAAATCAGATGGGGCGGTGCAAAGCATGACCCTGGTGAAAAGGACGACGGCAGGAGGATGCATCCACGGTCATCTTTCAAGGCTTTCCTTGAAGTTGTTAAGTCAAGGAGCTTACCGTGGAAAGACTACGAGATGGATGCTATTCATTCATTGCAGCTAATACTCAGAAATGCATTCAAAGAGATGGATAGTATGGACATAACCACAAATGCAATAAATACAAGGCTGAATGATTTGAGGATTGAAGGGATGCAGGAACTGGAAGCCGTGACGAGTGAGATGGTTAGATTAATTGAAACTGCAACAGTACCTATTCTGGCTGTAGATGTTGATGGGCTGGTTAATGGATGGAATATAAAGATTGCCGAATTGACTGGCCTTTCGGTTGGTGATGCTATAGGGAAGCATCTTCTCACGCTCATTGAGAACTCTTCAGTTGGTATAGTCAAGAAGATGCTTGAGATGGCATTGAAAGGTGAAGAAGAGAAAAACGTCCAATTTGAGATCAAAACACATGGGTCTAAAGTTGATTGTGGTCCTATTAGATTGGTAGTTAATGCTTGCGCAAGCCGGGATATTCATGATAATGTTGTGGGGGTTTGTTTTGTGGCCCAAGACATCACAGCTCAGAAGACTGTCATGGATAAATTTACCCGAATTGAAGGTGATTACAAGGCGATTGTACAGAATCCCAACCCATTGATCCCCCCAATATTTGGAACTGATGAATTTGGCTGGTGTTGTGAGTGGAATGCAGCTATGACAAAGGTGACCGGATGGAAGAGAGAAGAGGTGATGGATAAAATGCTTTTAGGAGAGGTTTTTGGGACTCAGATGGCTTGTTGTCGTCTTAAGAACCAAGAAGCTTTTGTTAATTTTGGTATTGTACTTAATAAAGCCATGACCGGTTTGGAGACAGCAAAGGTTGCTTTTGGTTTCTTTGCTCGTAGTGGGAAGTATGTAGAATGCCTGCTTTCGGTGAGTAAAAAATTGGACGTCGAAGGTGTAGTTACTGGGGTCTTCTGCTTCTTGCAGCTAGCTAGTCCAGAGCTGCAACAAGCATTGCATGTTCAGCGAATATCTGAACAAACTGCCTTGAAGAGACTGAAAGCTTTAACTTATATGAAGAGGCAGATCAGGAATCCTTTATCCGGGATGATGTTTTCGCGGAAAATGTTGGAGGCCACTGAGTTGGGAACGGAACAAAAGCAACTCCTACACACCAGTGCTCAGTGCCAGTGCCAGCTTAGCAAAGTTCTTGATGACTCAGATCTTGACAGCATCATTGATGGTTACTTGGATCTTGAGATGGCTGAATTCACTCTGCATGATGTATTGGTTGCTTCCCTTAGTCAAGTAATGGCAAAGAGTAACACCAAAGCTATCCGAATAGTCAACGATGTCAAAGAGCAAATTGTGACAGAAACCTTATACGGTGATAGTCTTAGGCTTCAGCAGGCCATAGCTGACTTCTTATTGATTTCCATAAACTTCACACCCAATGGAGGTCAAGTTGTAGTAACAGCCACTCTGACCAAAGAACAAATAGGGCAATCTGTCCATCTTGTTAAATTTGGAGCTCAGCATAACACATCCTGGTAGTGGGGTGCCGGAAGCACTGCTGAACCAGATGTTTGAGAGCAATGGGCTTGAATCAGAGGAAGAAGGTATAAGCCTTCTCATAAGCAGAAAACTTCTAAAGCTGATGAATGGAGATGTGCGTTATGTAAGGGAAGCAGGCAAATCATCTTTTATCCTATCTGCTGAACTTGCCGCAGCTCATAAGTTGAAAGATTAG
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Error: 2024-08-26 19:32:43 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Error: 2024-08-26 19:32:58 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   KpnI
+│ 
+│   Exception:
+│   KeyError("KpnI")
+│ 
+│   exception = (KeyError("KpnI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Info: 2024-08-26 19:33:41 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:33:41 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:34:23 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:34:23 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:34:32 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:34:32 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-08-26 19:35:18 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   KpnI
+│ 
+│   Exception:
+│   KeyError("KpnI")
+│ 
+│   exception = (KeyError("KpnI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Error: 2024-08-26 19:35:34 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Info: 2024-08-26 19:35:51 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:35:51 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-08-26 19:36:09 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960d56c63, Ptr{Nothing} @0x0000020960d58813, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020964e4e829, Ptr{Nothing} @0x0000020964e43924, Ptr{Nothing} @0x0000020964e43bfb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Info: 2024-08-26 19:36:34 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:36:34 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:39:43 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:39:43 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:39:48 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:39:48 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-08-26 19:40:01 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960dc1073, Ptr{Nothing} @0x0000020960dc2c23, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020960dc0109, Ptr{Nothing} @0x0000020960db56e4, Ptr{Nothing} @0x0000020960db59bb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Error: 2024-08-26 19:40:46 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ C:\Users\88157\.julia\packages\Observables\YdEbO\src\Observables.jl:419
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   AluI
+│ 
+│   Exception:
+│   KeyError("AluI")
+│ 
+│   exception = (KeyError("AluI"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x0000020960d5aab6, Ptr{Nothing} @0x0000020960d5ab34, Ptr{Nothing} @0x0000020960d50ef0, Ptr{Nothing} @0x0000020960dc1073, Ptr{Nothing} @0x0000020960dc2c23, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff85313cb38, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x00007ff852cc822e, Ptr{Nothing} @0x00007ff8a46e8a21, Ptr{Nothing} @0x0000020964e4f830, Ptr{Nothing} @0x0000020964e4f877, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x0000020964e4ea85, Ptr{Nothing} @0x0000020964e4f54c, Ptr{Nothing} @0x0000020964e4f5aa, Ptr{Nothing} @0x0000020960dc0109, Ptr{Nothing} @0x0000020960db56e4, Ptr{Nothing} @0x0000020960db59bb, Ptr{Nothing} @0x0000020964dc3715, Ptr{Nothing} @0x0000020964dc3b87, Ptr{Nothing} @0x0000020964dc3c1b, Ptr{Nothing} @0x0000020964dc3c5f, Ptr{Nothing} @0x0000020964db05f2, Ptr{Nothing} @0x0000020964db064b, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x00007ff80a4b89fa, Ptr{Nothing} @0x00007ff80a385370, Ptr{Nothing} @0x00007ff80a4511d3, Ptr{Nothing} @0x0000020921475084, Ptr{Nothing} @0x0000020921475152, Ptr{Nothing} @0x00007ff8a46e6a1a, Ptr{Nothing} @0x000002092146ffbc, Ptr{Nothing} @0x000002092147231c, Ptr{Nothing} @0x000002092147292b, Ptr{Nothing} @0x00007ff8a46fc00b])
+└ @ Stipple C:\Users\88157\.julia\packages\Stipple\doLU3\src\stipple\mutators.jl:54
+┌ Info: 2024-08-26 19:44:53 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 19:44:54 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:45:04 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 19:45:04 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 19:45:05 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=XWIQBUKWCNVNLVXCHGACCYYOBTMLYYNZ 
+└ @ Genie.Server C:\Users\88157\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-26 19:45:05 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\88157\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-26 20:03:38 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 20:03:38 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 20:07:05 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 20:07:06 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 20:07:15 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-26 20:07:15 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-26 20:07:17 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=KEQNTODPWLQDKVISLSXTYSAABAMBCDON 
+└ @ Genie.Server C:\Users\88157\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-26 20:07:17 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\88157\.julia\packages\HTTP\sJD5V\src\Servers.jl:382

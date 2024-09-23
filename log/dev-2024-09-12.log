@@ -1,0 +1,21 @@
+┌ Info: 2024-09-12 13:48:27 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-09-12 13:48:29 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-09-12 13:49:01 Watching ["c:\\Users\\88157\\OneDrive - Instituto Tecnológico de Celaya\\Escritorio\\geniebuilder_apps\\enzy\\Endonuclease"]
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-09-12 13:49:01 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-09-12 13:49:03 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=HJTLJHAROTNWMORJMZQSCMKAYNAQBGFC 
+└ @ Genie.Server C:\Users\88157\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-09-12 13:49:03 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\88157\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-09-12 19:32:19 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-09-12 19:32:19 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-09-12 19:32:22 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-09-12 19:32:22 Autoreloading
+└ @ GenieAutoReload C:\Users\88157\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
