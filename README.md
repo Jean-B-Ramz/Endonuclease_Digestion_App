@@ -41,6 +41,7 @@ Clone the repository and install the following dependencies:
 
 + GenieFramework
 + DataFrames
++ PlotlyBase
 + StipplePlotly
 
 First cd into the project directory then run:
