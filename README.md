@@ -1,7 +1,7 @@
 # Endonuclease-Digestion-Simulator-App
 ## Description
 
-The **Endonuclease Digestion Simulator** is a user-friendly web application designed to help users simulate the digestion of DNA sequences using some of the most popular restriction enzymes. With this tool, you can input a DNA sequence and select up to three different restriction enzymes to see how a DNA is cut and the resulting fragments formed. This simulator is especially valuable for molecular biologists, genetic engineers, researchers, and students interested in visualizing and understanding the effects of various restriction enzymes on DNA sequences.
+The **Endonuclease Digestion Simulator** is a user-friendly web application developed using Genie Builder and Julia. It is designed to help users simulate the digestion of DNA sequences with some of the most popular restriction enzymes. With this tool, users can input a DNA sequence and select up to three different restriction enzymes to visualize how the DNA is cut and the resulting fragments formed. This simulator is particularly valuable for molecular biologists, genetic engineers, researchers, and students interested in understanding and visualizing the effects of various restriction enzymes on DNA sequences.
 
 ### Key Features
 - **Input DNA Sequences**: Easily enter your DNA sequence to be digested by the chosen enzymes.
