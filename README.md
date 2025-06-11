@@ -68,5 +68,5 @@ Open your browser and navigate to http://localhost:8000/.
 
 ## Genie App Summer 2024 competition
 This app was recognized as a notabe submission at Summer 2024 app competition, hosted by Genie and sponsored by JuliaHub.
+![image](https://github.com/user-attachments/assets/ce85a0f0-4932-4e31-b48f-03a93837c511)
 https://genieframework.com/blog/genie-competition-winners#notable-submissions
-
