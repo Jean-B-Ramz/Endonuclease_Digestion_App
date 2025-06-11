@@ -65,3 +65,8 @@ julia> up() # start server
 ## Usage
 
 Open your browser and navigate to http://localhost:8000/.
+
+## Genie App Summer 2024 competition
+This app was recognized as a notabe submission at Summer 2024 app competition, hosted by Genie and sponsored by JuliaHub.
+https://genieframework.com/blog/genie-competition-winners#notable-submissions
+
