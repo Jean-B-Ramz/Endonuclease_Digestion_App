@@ -1,4 +1,10 @@
 # Endonuclease-Digestion-Simulator-App
+[![Genie Notable Submission](https://img.shields.io/badge/Genie_Framework-Notable_Submission_2024-purple?style=flat&logo=julia)](https://genieframework.com/blog/genie-competition-winners#notable-submissions)
+
+> 🏆 **Recognition:** This project was selected as a **Notable Submission** in the *Genie App Competition Summer 2024*, sponsored by **JuliaHub**. Read the official announcement [here](https://genieframework.com/blog/genie-competition-winners#notable-submissions).
+
+---
+
 ## Description
 
 The Endonuclease Digestion Simulator is a user-friendly web application designed for molecular biologists, genetic engineers, researchers, and students. It enables users to simulate DNA digestion using popular restriction enzymes. Users can input DNA sequences, select up to three different enzymes, and observe the resulting banding patterns from enzyme DNA cutting. The app provides detailed fragment size data and visually simulates gel electrophoresis, showing how the fragments would appear after separation by size.
